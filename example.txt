@@ -1,0 +1,7 @@
+19 persons,in1
+12 persons,in1
+13 persons,in1
+
+19 persons,in room 1
+12 persons,in room 1
+13 persons,in room 1

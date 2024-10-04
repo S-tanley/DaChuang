@@ -1,0 +1,2 @@
+cd /Users/zhengbowen/nondefault/DaChuang_local/cls_demo
+python check_rtsp.py 208 & python check_rtsp.py 209 & python check_rtsp.py 213 & python check_rtsp.py 211 & python check_rtsp.py 202 & python check_rtsp.py 203 & python check_rtsp.py 212 & python check_rtsp.py 214 & python check_rtsp.py 210

@@ -1,0 +1,8 @@
+
+The device in 212 is not on
+The device in 213 is on
+The device in 211 is not on
+The device in 208 is not on
+The device in 209 is on
+The device in 203 is on
+The device in 202 is not on

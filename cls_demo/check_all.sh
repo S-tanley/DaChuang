@@ -1,0 +1,2 @@
+cd /Users/zhengbowen/nondefault/DaChuang_local/cls_demo
+python instance.py 208 & python instance.py 209 & python instance.py 213 & python instance.py 211 & python instance.py 202 & python instance.py 203 & python instance.py 212 
